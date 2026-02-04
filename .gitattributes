@@ -1,1 +1,4 @@
+*.data filter=lfs diff=lfs merge=lfs -text
+*.wasm filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
 Build/Mina's[[:space:]]WebGL[[:space:]]folder.data filter=lfs diff=lfs merge=lfs -text
